@@ -8,3 +8,14 @@ There is a large quantity of Disney movie datasets but they frequently contain n
 **Data Warehouse**: Interconnected tables for structured data storage. <br>
 **Airflow Pipeline**: Automate data ingestion, generation, cleaning, modelling, and a consumption layer to track changes to data. <br>
 **Experimental Data Enrichment**: Scripts that fill null values using the Google Gemini Large Language Model. <br>
+**Web Scraping**: Script using BeautifulSoup and requests to pull data from a Disney website. It is transformed into a Pandas Dataframe and merged with other Disney data. <br>
+**Exploratory Data Analysis**: Explored which features contribute most significantly to  box office revenue of a movie and created plots with matplotlib. <br>
+
+## Machine Learning Models
+**Decision Tree** <br>
+**Bagging** <br>
+**Random Forest** <br>
+**Gradient Boosting** <br>
+
+
+
